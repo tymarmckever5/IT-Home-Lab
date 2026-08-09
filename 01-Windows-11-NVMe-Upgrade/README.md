@@ -1,3 +1,7 @@
+<img width="3024" height="4032" alt="IMG_3836" src="https://github.com/user-attachments/assets/91fd7cf0-cf07-4b23-897f-b5893037d27f" />
+<img width="884" height="1920" alt="lp_image" src="https://github.com/user-attachments/assets/ed718c83-077c-4df5-8727-fbfc464ee8fc" />
+<img width="884" height="1920" alt="lp_image (1)" src="https://github.com/user-attachments/assets/68e0bf71-8cbb-4b6e-8d8f-34e773788b0e" />
+<img width="884" height="1920" alt="lp_image (2)" src="https://github.com/user-attachments/assets/cfbd499d-b643-48e6-9f25-5d4325b441af" />
 
 # Windows 11 NVMe SSD Upgrade
 
