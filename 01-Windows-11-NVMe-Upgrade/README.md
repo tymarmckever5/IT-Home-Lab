@@ -50,7 +50,7 @@ After the initial installation stage completed and the computer restarted, I rem
 
 Successfully upgraded the desktop with NVMe storage and completed a clean Windows 11 installation. The system now boots successfully from the NVMe SSD with Windows updates and required drivers installed.
 
-<img width="250" alt="IMG_3836" src="https://github.com/user-attachments/assets/91fd7cf0-cf07-4b23-897f-b5893037d27f" />
-<img width="250" alt="lp_image" src="https://github.com/user-attachments/assets/ed718c83-077c-4df5-8727-fbfc464ee8fc" />
-<img width="250" alt="lp_image (1)" src="https://github.com/user-attachments/assets/68e0bf71-8cbb-4b6e-8d8f-34e773788b0e" />
-<img width="250" alt="lp_image (2)" src="https://github.com/user-attachments/assets/cfbd499d-b643-48e6-9f25-5d4325b441af" />
+<img width="100" alt="IMG_3836" src="https://github.com/user-attachments/assets/91fd7cf0-cf07-4b23-897f-b5893037d27f" />
+<img width="100" alt="lp_image" src="https://github.com/user-attachments/assets/ed718c83-077c-4df5-8727-fbfc464ee8fc" />
+<img width="100" alt="lp_image (1)" src="https://github.com/user-attachments/assets/68e0bf71-8cbb-4b6e-8d8f-34e773788b0e" />
+<img width="100" alt="lp_image (2)" src="https://github.com/user-attachments/assets/cfbd499d-b643-48e6-9f25-5d4325b441af" />
