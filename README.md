@@ -14,7 +14,6 @@ Created and configured a Windows 11 Pro virtual machine using Oracle VirtualBox,
 
 ## Upcoming Projects
 
-- VirtualBox & Virtual Machines
 - Windows Server & Active Directory
 - Network Troubleshooting
 - Jira Help Desk Lab
